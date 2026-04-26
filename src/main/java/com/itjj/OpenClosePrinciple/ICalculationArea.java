@@ -1,5 +1,8 @@
 package com.itjj.OpenClosePrinciple;
 
+/**
+ * 开闭原则则是通过增加新代码而不是修改旧代码来应对需求变化。
+ */
 public interface ICalculationArea {
 
     /**

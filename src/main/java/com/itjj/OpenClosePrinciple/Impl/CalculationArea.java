@@ -2,7 +2,6 @@ package com.itjj.OpenClosePrinciple.Impl;
 
 import com.itjj.OpenClosePrinciple.ICalculationArea;
 
-
 public class CalculationArea implements ICalculationArea {
 
     private static final double PI = 3.14D;
